@@ -175,15 +175,15 @@ export const dataPortfolio = [
         id: 1,
         title: "Clon Netflix",
         image: "/Clone_Netflix.jpg",
-        urlGithub: "https://github.com/JArangol1212",
+        urlGithub: "https://github.com/JArangol1212/Clone_netflix",
         urlDemo: "https://clone-netflix-s98z-logi1znnn-jarangol1212s-projects.vercel.app/",
     },
     {
         id: 2,
         title: "Portafolio Personal",
         image: "/ArangoJose.png",
-        urlGithub: "#!",
-        urlDemo: "#!",
+        urlGithub: "https://github.com/JArangol1212/PortafolioPersonal",
+        urlDemo: "https://portafolio-personal-dadd.vercel.app/",
     },
     {
         id: 3,
@@ -196,7 +196,7 @@ export const dataPortfolio = [
         id: 4,
         title: "Ecommerce",
         image: "/Ecommerce.png",
-        urlGithub: "https://github.com/JArangol1212",
+        urlGithub: "https://github.com/JArangol1212/Ecommerce-coffe",
         urlDemo: "https://ecommerce-coffe-8dl1.vercel.app/",
     },
   
