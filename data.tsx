@@ -248,21 +248,21 @@ export const dataTestimonials = [
 ];
 
 export const dataSkill = [
-    { id: 1, name: "HTML", imageUrl: "/HTML.JPG", category: "Frontend",link: "#" ,color:"ff8000"},
+    { id: 1, name: "HTML", imageUrl: "/htmlJose.jpg", category: "Frontend",link: "#" ,color:"ff8000"},
     { id: 2, name: "CSS", imageUrl: "/CSSS.jpg", category: "Frontend",link: "#" },
     { id: 3, name: "JavaScript", imageUrl: "/javascript.jpg", category: "Frontend",link: "#" },
     { id: 4, name: "TypeScript", imageUrl: "/TYPESCRPT.jpg", category: "Frontend",link: "#" },
     { id: 5, name: "React", imageUrl: "/REACT.jpg", category: "Frontend",link: "#" },
     { id: 6, name: "Nextjs", imageUrl: "/NEXTJS.jpg", category: "Frontend",link: "#" },
     { id: 7, name: "Tailwind", imageUrl: "/TAILWINCSS.jpg", category: "Frontend",link: "#" },
-    { id: 8, name: "Bootstrap", imageUrl: "/Bootstrap.jpg", category: "Frontend",link: "#" },
+    { id: 8, name: "Bootstrap", imageUrl: "/boot.jpg", category: "Frontend",link: "#" },
 
-    { id: 9, name: "Node.js", imageUrl: "/Nodejs.jpg", category: "Backend",link: "#" },
+    { id: 9, name: "Node.js", imageUrl: "/NODE.jpg", category: "Backend",link: "#" },
     { id: 10, name: "Javascript", imageUrl: "/javascript.jpg", category: "Backend", link: "#" },
     { id: 11, name: "TypeScript", imageUrl: "/TYPESCRPT.jpg", category: "Backend", link: "#" },
-    { id: 12, name: "Nest.js", imageUrl: "/NESTJS.JPG", category: "Backend" ,link: "#" },
+    { id: 12, name: "Nest.js", imageUrl: "/NEST.jpg", category: "Backend" ,link: "#" },
     { id: 13, name: "Express", imageUrl: "/EXPRESSJS.jpg", category: "Backend" ,link: "#" },
-    { id: 14, name: "Java", imageUrl: "/java.jpg", category: "Backend", link: "#" },
+    { id: 14, name: "Java", imageUrl: "/JAVA2.jpg", category: "Backend", link: "#" },
     { id: 15, name: "Spring Boot", imageUrl: "/SPRINBOOT.jpg", category: "Backend", link: "#" },
 
     { id: 16, name: "MySQL", imageUrl: "/MYSQL.jpg", category: "Base de Datos", link: "#" },

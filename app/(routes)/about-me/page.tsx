@@ -32,7 +32,7 @@ export default function Page() {
 
         <div className="flex items-center justify-center gap-3 md:justify-start md:gap-4 -ml-20">
           <a
-            href="https://drive.google.com/file/d/11E_SEythMhmm0Z9zLgBrG5WZepxgjXaH/view?usp=sharing"
+            href="https://drive.google.com/file/d/1ChB-qcsPUEhfvVnsC9ms1rb1J7fAXs17/view?usp=drive_link"
             target="_blank"
             rel="noopener noreferrer"
             className="inline-flex items-center gap-2 px-3 py-4 my-5 transition-all border-2 cursor-pointer text-md w-56 text-blue-600 border-white rounded-xl hover:shadow-xl hover:shadow-white ml-72 mt-16 "
